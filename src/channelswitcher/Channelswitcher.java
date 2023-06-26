@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+Copyright 2023 by Thorsten Stueker
+License: This Code is under GPL V3 License with Linking exception. Removing of this Copyright notice is forbidden by Law! 
  */
 package channelswitcher;
 
